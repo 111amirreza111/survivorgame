@@ -9,6 +9,7 @@ TagManager:
   - stoppanel
   - guns
   - gunsimage
+  - OB
   layers:
   - Default
   - TransparentFX
